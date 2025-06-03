@@ -173,6 +173,7 @@
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
     <Content Include="Scripts\modernizr-2.8.3.js" />
+    <Content Include="Views\Home\About.cshtml" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -184,11 +185,21 @@
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\Shared\Error.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
-    <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Home\Principal.cshtml" />
     <Content Include="Views\Shared\_LayoutExterno.cshtml" />
+    <Content Include="Views\Shared\footer-scripts.cshtml" />
+    <Content Include="Views\Shared\footer.cshtml" />
+    <Content Include="Views\Shared\head-css.cshtml" />
+    <Content Include="Views\Shared\horizontal-nav.cshtml" />
+    <Content Include="Views\Shared\html.cshtml" />
+    <Content Include="Views\Shared\left-sidebar.cshtml" />
+    <Content Include="Views\Shared\menu.cshtml" />
+    <Content Include="Views\Shared\page-title.cshtml" />
+    <Content Include="Views\Shared\right-sidebar.cshtml" />
+    <Content Include="Views\Shared\title-meta.cshtml" />
+    <Content Include="Views\Shared\topbar.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
